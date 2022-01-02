@@ -1,0 +1,5 @@
+#+TITLE: Watchy Template
+
+This represents my basic template for starting a [[https://watchy.sqfmi.com/][Watchy]] face using the [[https://platformio.org/][PlatformIO]] development environment.
+
+The basic Watchy instructions come from the [[https://watchy.sqfmi.com/docs/getting-started/][getting started]] page. 
